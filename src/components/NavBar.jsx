@@ -11,6 +11,8 @@ const navigation = [
     // { name: 'Advantage', href: '#advantage', current: false,id:'advantageid' },
     // { name: 'Hot offers', href: '#hotoffers', current: false, id:'hotofferid' },
     // { name: 'Location', href: '#locations', current: false, id:'locationid' },
+
+    // heello
    
   ]
 
