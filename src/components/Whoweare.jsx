@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import img2 from '../assets/images/img2.png'
 
 export const Whoweare = () => {
   return (
@@ -23,6 +24,8 @@ brains behind the digital marketing activations of leading brands like Nykaa Man
             </div>
             <div class="md:7/12 lg:w-5/12">
               {/* <h2 class="text-2xl text-gray-900 font-bold md:text-4xl">What Our Client Say </h2> */}
+
+              <img src={img2} alt="" />
 
 
             </div>

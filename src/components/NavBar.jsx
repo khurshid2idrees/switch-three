@@ -1,7 +1,7 @@
 import {React, Fragment} from 'react';
 import { Disclosure, Menu, Transition } from '@headlessui/react';
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline';
-// import logo from '../../assets/images/trflogo.png';
+import logo from '../assets/images/switchthreelogo.png'
 
 
 const navigation = [
@@ -54,41 +54,14 @@ export default function NavBar() {
                 </Disclosure.Button>
               </div>
               <div className="flex flex-shrink-0 items-center">
-                  {/* <img
+                  <img
                     className="h-14 w-auto"
                     src={logo}
                     alt="Your Company"
-                  /> */}
+                  />
                 </div>
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-center">
-                {/* <div className="flex flex-shrink-0 items-center">
-                  <img
-                    className="h-8 w-auto"
-                    src={logo}
-                    alt="Your Company"
-                  />
-                </div> */}
-                {/* <div className="hidden sm:ml-6 sm:block">
-                  <div className="flex space-x-12">
-                    {navigation.map((item) => (
-                      <a
-                        key={item.name}
-
-                      href={item.href}
-                      
-                        
-                        id = {item.id}
-                        className={classNames(
-                          item.current ? ' text-white' : 'text-gray-300 hover:text-red-600 text-lg font-gotham font-extrabold',
-                          'rounded-md px-3 py-2 text-lg font-medium'
-                        )}
-                        aria-current={item.current ? 'page' : undefined}
-                      >
-                        {item.name}
-                      </a>
-                    ))}
-                  </div>
-                </div> */}
+               
               </div>
               <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
               <div className="hidden sm:ml-6 sm:block">
