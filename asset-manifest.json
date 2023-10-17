@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/khurshid2idrees/switch-three/static/css/main.9620b7d0.css",
-    "main.js": "/khurshid2idrees/switch-three/static/js/main.7a07dff2.js",
+    "main.css": "/khurshid2idrees/switch-three/static/css/main.e94eef4d.css",
+    "main.js": "/khurshid2idrees/switch-three/static/js/main.1f39522b.js",
     "static/js/787.c6441455.chunk.js": "/khurshid2idrees/switch-three/static/js/787.c6441455.chunk.js",
     "static/media/imag1.jpg": "/khurshid2idrees/switch-three/static/media/imag1.8bfd973555a843a5c852.jpg",
     "static/media/switchthreelogo.png": "/khurshid2idrees/switch-three/static/media/switchthreelogo.a545edd720c3cdf2e064.png",
@@ -16,12 +16,12 @@
     "static/media/4.png": "/khurshid2idrees/switch-three/static/media/4.d1db90b04ffee450684c.png",
     "static/media/10.png": "/khurshid2idrees/switch-three/static/media/10.57ec1031bdd1ce32dcbf.png",
     "index.html": "/khurshid2idrees/switch-three/index.html",
-    "main.9620b7d0.css.map": "/khurshid2idrees/switch-three/static/css/main.9620b7d0.css.map",
-    "main.7a07dff2.js.map": "/khurshid2idrees/switch-three/static/js/main.7a07dff2.js.map",
+    "main.e94eef4d.css.map": "/khurshid2idrees/switch-three/static/css/main.e94eef4d.css.map",
+    "main.1f39522b.js.map": "/khurshid2idrees/switch-three/static/js/main.1f39522b.js.map",
     "787.c6441455.chunk.js.map": "/khurshid2idrees/switch-three/static/js/787.c6441455.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9620b7d0.css",
-    "static/js/main.7a07dff2.js"
+    "static/css/main.e94eef4d.css",
+    "static/js/main.1f39522b.js"
   ]
 }
